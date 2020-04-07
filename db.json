@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "organic fruits",
+      "display name": "organic fruits",
+      "description": "fruits from local organic farms"
+    },
+    {
+      "id": 2,
+      "name": "imported fruits",
+      "display name": "imported fruits",
+      "description": "fruits imported from oversea"
+    },
+    {
+      "id": 3,
+      "name": "organic vegetables",
+      "display name": "organic vegetables",
+      "description": "veggies from local organic farms"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "organic fruits",
+      "name": "apples",
+      "display name": "organic apples",
+      "description": "organic apples from Yakima"
+    },
+    {
+      "id": 2,
+      "category": "organic fruits",
+      "name": "bananas",
+      "display name": "organic bananas",
+      "description": "organic bananas from California"
+    },
+    {
+      "id": 3,
+      "category": "imported fruits",
+      "name": "grapes",
+      "display name": "imported grapes",
+      "description": "grapes from Chile"
+    },
+    {
+      "id": 4,
+      "category": "imported fruits",
+      "name": "mangos",
+      "display name": "imported mangos",
+      "description": "mangos from Thailand"
+    },
+    {
+      "id": 5,
+      "category": "organic vegetables",
+      "name": "potatos",
+      "display name": "organic potatos",
+      "description": "organic potatos from Idaho"
+    },
+    {
+      "id": 6,
+      "category": "organic vegetables",
+      "name": "carrots",
+      "display name": "organic carrots",
+      "description": "organic potatos from Yakima"
+    }
+  ]
+}
