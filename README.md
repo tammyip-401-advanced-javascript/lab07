@@ -6,7 +6,7 @@ Author: Tammy Ip
 
 Links and Resources (see below)
 submission PR: https://github.com/tammyip-401-advanced-javascript/lab07/pull/1
-Heroku Deployment: 
+Heroku Deployment: https://js401n16-express.herokuapp.com/
 SwaggerHub API info: https://app.swaggerhub.com/apis-docs/iptmh/Lab06/0.1
 Code Fellows Supergoose: https://www.npmjs.com/package/@code-fellows/supergoose
 
